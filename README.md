@@ -1,0 +1,99 @@
+# Vending Machine API (In-Memory FastAPI)
+
+A minimal, production-ready **in-memory** FastAPI app for a vending machine.
+No database is used; products and transactions are kept in process memory
+and seeded at startup for an instant demo.
+
+## Features
+- List full inventory with price and quantity
+- Buy product with amount inserted; returns change
+- Track transactions
+- Show total revenue collected
+
+## Tech
+- FastAPI
+- Pydantic
+- Uvicorn
+- No external DB
+
+## Quickstart (Local)
+
+```bash
+pip install -r requirements.txt
+uvicorn app.main:app --reload
+```
+
+Open the docs:
+- Swagger UI: http://127.0.0.1:8000/docs
+- ReDoc: http://127.0.0.1:8000/redoc
+
+### Example Calls
+- List products: `GET /products/`
+- Buy product: `POST /buy/?product_id=1&amount_paid=10`
+- Revenue: `GET /revenue/`
+- Transactions: `GET /transactions/`
+
+## Docker
+
+Build:
+```bash
+docker build -t vending-api .
+```
+
+Run:
+```bash
+docker run -p 8000:8000 --name vending vending-api
+```
+
+Now open:
+- http://localhost:8000/docs
+
+## Project Layout
+
+```
+vending_machine/
+  app/
+    __init__.py
+    main.py
+    models.py
+    routes/
+      __init__.py
+      products.py
+      vending.py
+  requirements.txt
+  Dockerfile
+  .dockerignore
+  README.md
+```
+
+## Notes
+- This is an in-memory demo. Restarting the server resets inventory and revenue.
+- For persistence, swap to SQLite or Postgres and add SQLAlchemy/CRUD layers.
+
+
+```
+
+├── vending_machine/
+│   ├── requirements.txt
+│   ├── Dockerfile
+│   ├── README.md
+│   ├── .dockerignore
+│   ├── app/
+│   │   ├── models.py
+│   │   └── main.py
+│   │   ├── routes/
+│   │   │   ├── vending.py
+│   │   │   └── products.py
+
+```
+
+## 📩 Contact
+
+| Name              | Details                             |
+|-------------------|-------------------------------------|
+| **👨‍💻 Developer**  | Sachin Arora                      |
+| **📧 Email**       | [sachnaror@gmail.com](mailto:sachnaror@gmail.com) |
+| **📍 Location**    | Noida, India                       |
+| **📂 GitHub**      | [github.com/sachnaror](https://github.com/sachnaror) |
+| **🌐 Website**     | [about.me/sachin-arora](https://about.me/sachin-arora) |
+| **📱 Phone**       | [+91 9560330483](tel:+919560330483) |
