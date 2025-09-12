@@ -49,10 +49,6 @@ Now open:
 - http://localhost:8000/docs
 
 
-## Screenshot
-
-<img width="714" height="659" alt="Screenshot 2025-09-13 at 5 14 51 AM" src="https://github.com/user-attachments/assets/e2c4d723-23aa-4968-960e-3f49ea491a52" />
-
 
 
 ## Project Layout
@@ -96,11 +92,27 @@ vending_machine/
 
 ## 📩 Contact
 
-| Name              | Details                             |
-|-------------------|-------------------------------------|
-| **👨‍💻 Developer**  | Sachin Arora                      |
-| **📧 Email**       | [sachnaror@gmail.com](mailto:sachnaror@gmail.com) |
-| **📍 Location**    | Noida, India                       |
-| **📂 GitHub**      | [github.com/sachnaror](https://github.com/sachnaror) |
-| **🌐 Website**     | [about.me/sachin-arora](https://about.me/sachin-arora) |
-| **📱 Phone**       | [+91 9560330483](tel:+919560330483) |
+| Name              | Details                                                           |
+|-------------------|-------------------------------------------------------------------|
+| **👨‍💻 Developer**  | Sachin Arora                                                      |
+| **📧 Email**      | [sachnaror@gmail.com](mailto:sachnaror@gmail.com)                 |
+| **📍 Location**   | Noida, India                                                      |
+| **📂 GitHub**     | [github.com/sachinarora](https://github.com/sachinarora)          |
+| **🌐 Youtube**    | [YouTube (@sachnaror4841)](https://www.youtube.com/@sachnaror4841/videos) |
+| **🌐 Blog**       | [medium.com/@sachnaror](https://medium.com/@sachnaror)            |
+| **🌐 Website**    | [about.me/sachin-arora](https://about.me/sachin-arora)            |
+| **🌐 Twitter**    | [@sachinhep](https://twitter.com/sachinhep)                       |
+| **📱 Phone**      | [+91 9560330483](tel:+919560330483)                               |
+
+
+
+
+
+
+## Screenshot
+
+<img width="714" height="659" alt="Screenshot 2025-09-13 at 5 14 51 AM" src="https://github.com/user-attachments/assets/e2c4d723-23aa-4968-960e-3f49ea491a52" />
+
+<img width="1454" height="906" alt="image" src="https://github.com/user-attachments/assets/fea5abb0-e55a-4bfa-a184-e7d736b79439" />
+
+
