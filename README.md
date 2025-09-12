@@ -48,6 +48,13 @@ docker run -p 8000:8000 --name vending vending-api
 Now open:
 - http://localhost:8000/docs
 
+
+## Screenshot
+
+<img width="714" height="659" alt="Screenshot 2025-09-13 at 5 14 51 AM" src="https://github.com/user-attachments/assets/e2c4d723-23aa-4968-960e-3f49ea491a52" />
+
+
+
 ## Project Layout
 
 ```
