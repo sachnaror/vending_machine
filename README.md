@@ -93,7 +93,7 @@ vending_machine/
 ## 📩 Contact
 
 
-|-------------------|-------------------------------------------------------------------|
+
 | **👨‍💻 Developer**  | Sachin Arora                                                      |
 | **📧 Email**      | [sachnaror@gmail.com](mailto:sachnaror@gmail.com)                 |
 | **📍 Location**   | Noida, India                                                      |
