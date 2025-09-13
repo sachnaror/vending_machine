@@ -92,7 +92,7 @@ vending_machine/
 
 ## 📩 Contact
 
-| Name              | Details                                                           |
+
 |-------------------|-------------------------------------------------------------------|
 | **👨‍💻 Developer**  | Sachin Arora                                                      |
 | **📧 Email**      | [sachnaror@gmail.com](mailto:sachnaror@gmail.com)                 |
